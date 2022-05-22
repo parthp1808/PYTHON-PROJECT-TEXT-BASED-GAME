@@ -1,0 +1,69 @@
+{
+	"mapresponses": {
+		"MAIN YARD": {
+			"verb": ["help", "alert"],
+
+			"eventres1": {
+				"magic": 20,
+				"health": 0,
+				"items": ["BlackMagicbook"],
+				"choices": []
+
+
+			},
+
+
+
+
+			"eventres2": {
+				"magic": 0,
+				"health": 0
+			}
+		},
+
+		"SCHOOL": {
+
+			"verb": ["go", "fight"],
+			"eventres1": {
+				"magic": 30,
+				"health": 0,
+				"items": ["Magic Wand"],
+				"choices": ["one", "two"]
+
+
+			},
+
+			"eventres2": {
+
+				"health": -100
+
+			}
+
+
+		},
+
+		"POTIONS CLASS": {
+
+			"verb": ["run", "fight"],
+			"eventres1": {
+				"magic": 30,
+				"health": 0,
+
+				"choices": []
+
+
+
+			},
+
+			"eventres2": {
+
+				"magic": 30,
+				"health": 0,
+				"items": ["Invisibility Cloak", ""],
+				"choices": []
+
+
+			}
+		}
+	}
+}

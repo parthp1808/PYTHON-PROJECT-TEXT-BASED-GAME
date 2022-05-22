@@ -1,0 +1,43 @@
+{
+	"map": {
+			
+			"MAIN YARD": {"W": "SCHOOL", "E": "DORM YARD"}
+		, 
+			
+			"SCHOOL": {"N": "POTIONS CLASS", "S": "MAGIC CLASS", "W": "DARK MAGIC DEFENSE"}
+
+		, 
+			
+			"POTIONS CLASS": {"S": "SCHOOL"}
+
+		, 
+			 
+			"DARK MAGIC DEFENSE": {"E": "SCHOOL"}
+		,
+
+		
+			
+			"MAGIC CLASS": {"N": "SCHOOL"}
+		,
+		
+			
+			"DORM YARD": {"N": "GRYFFINDOR DORM", "S": "HOSPITAL", "E": "SLYTHEIN DORM"}
+		,
+		
+			
+			"GRYFFINDOR DORM": {"S": "DORM YARD"}
+
+		,
+		
+			
+			"HOSPITAL": {"N": "DORM YARD"}
+
+		,
+		
+			
+			"SLYTHEIN DORM": {"W": "DORM YARD"}
+
+		}
+
+	
+}
