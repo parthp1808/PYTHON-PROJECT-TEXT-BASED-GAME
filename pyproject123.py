@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 21 11:36:13 2022
 
-@author: ranit
-"""
 import json
 mapjson = open('map.json')
 mapquesjson = open('mapques.json')
