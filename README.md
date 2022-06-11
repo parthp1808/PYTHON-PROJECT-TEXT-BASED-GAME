@@ -16,7 +16,7 @@ by becoming strong enough through collecting items and sharpening your weapons.Y
 
 - **Malfoy**:Blonde kid who is always suited in school attire.Has the shadow pulse ability which does some magical damage but is one the weaker characters.Can be found in the Potions class.
 
-- **Voldemort**:Your biggest foe.You must beat him to win the game.Located in the Slythein dorm
+- **Voldemort**:Your biggest foe.You must beat him to win the game.Located in the Slytherin dorm
 
 **Items**:
 - **Magicwand**:Green Long staffed Rod with a shiny tint.This wand has magical powers!.You must use this to to use magic and fight off creatures/characters as it is the only item with magical powers.

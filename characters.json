@@ -1,117 +1,112 @@
 {
-	"characters": {
-		"Hermione": {
-
-
-			"location": "DORM YARD",
-			"State": false,
-			"items": ["Potion"],
-			"STATS": {
-				"magicalres": 5,
-				"armor": 0
-			},
-			"ABILITIES": {
-				"magneto cogsium": {
-					"Description": "Reduces opponents magic resistance ",
-					"physicaldmg": 0,
-					"magic damage": 0,
-					"magicresreduction": 2,
-					"armorreduction": 0
-				},
-				"Sword Screen": {
-					"Description": "Uses glytherium sword to pierce enemy armor while damaging physically",
-					"physicaldmg": 20,
-					"magic damage": 0,
-					"magicresreduction": 0,
-					"armorreduction": 3
-				}
-			}
-		},
-
-		"Weasley": {
-
-			"location": "MAIN YARD", 
-			"State": false,
-			"items": ["Black Magic Book"],
-			"STATS": {
-				"magicalres": 5,
-				"armor": 0
-			},
-			"ABILITIES": {
-				"Immortality": {
-					"Description": "He is casting an evil curse with his voodoo doll.It hurts my psyche.Ouche",
-					"physicaldmg": 0,
-					"magic damage": 20,
-					"magicresreduction": 2,
-					"armorreduction": 0
-				},
-				"Fire Warrior": {
-					"Description": "The flames come out of his nape burn my flesh.This is painful!",
-					"physicaldmg": 10,
-					"magic damage": 0,
-					"magicresreduction": 0,
-					"armorreduction": 3
-				}
-			}
-		},
-
-		
-
-
-		"Snape": {
-
-			"location": "SCHOOL",
-			"State": false,
-			"items": ["Black Magic Book"],
-			"STATS": {
-				"magicalres": 5,
-				"armor": 0
-			},
-			"ABILITIES": {
-				"Spidey": {
-					"Description": "Has the power to use his animalist abilities and shoot out webs at his opponents ",
-					"physicaldmg": 20,
-					"magic damage": 0,
-					"magicresreduction": 0,
-					"armorreduction": 3
-				},
-				"Night Slash": {
-					"Description": "Can use his animalistic abilities and leverage sharp claws to harm opponents",
-					"physicaldmg": 0,
-					"magic damage": 25,
-					"magicresreduction": 2,
-					"armorreduction": 0
-				}
-			}
-		},
-
-		"Malfoy": {
-
-			"location": "POTIONS CLASS",
-			"State": false,
-			"STATS": {
-				"magicalres": 5,
-				"armor": 0
-			},
-			"items": ["Food"],
-			"ABILITIES": {
-				"Serpent Whisperer": {
-					"Description": "Has the power to use his slytherin lineage to channel snakes which harm opponents ",
-					"physicaldmg": 20,
-					"magic damage": 0,
-					"magicresreduction": 0,
-					"armorreduction": 3
-				},
-				"Shadow pulse": {
-					"Description": "Can use his animalistic abilities and leverage sharp claws to harm opponents",
-					"physicaldmg": 0,
-					"magic damage": 25,
-					"magicresreduction": 0,
-					"armorreduction": 2
-				}
-			}
-		}
-		
-		
-	}
+  "characters": {
+    "Hermione": {
+      "location": "DORM YARD",
+      "State": false,
+      "items": [
+        "Potion"
+      ],
+      "STATS": {
+        "magicalres": 5,
+        "armor": 0
+      },
+      "ABILITIES": {
+        "magneto cogsium": {
+          "Description": "Reduces opponents magic resistance ",
+          "physicaldmg": 0,
+          "magic damage": 0,
+          "magicresreduction": 2,
+          "armorreduction": 0
+        },
+        "Sword Screen": {
+          "Description": "Uses glytherium sword to pierce enemy armor while damaging physically",
+          "physicaldmg": 20,
+          "magic damage": 0,
+          "magicresreduction": 0,
+          "armorreduction": 3
+        }
+      }
+    },
+    "Weasley": {
+      "location": "MAIN YARD",
+      "State": false,
+      "items": [
+        "Black Magic Book"
+      ],
+      "STATS": {
+        "magicalres": 5,
+        "armor": 0
+      },
+      "ABILITIES": {
+        "Immortality": {
+          "Description": "He is casting an evil curse with his voodoo doll.It hurts my psyche.Ouche",
+          "physicaldmg": 0,
+          "magic damage": 20,
+          "magicresreduction": 2,
+          "armorreduction": 0
+        },
+        "Fire Warrior": {
+          "Description": "The flames come out of his nape burn my flesh.This is painful!",
+          "physicaldmg": 10,
+          "magic damage": 0,
+          "magicresreduction": 0,
+          "armorreduction": 3
+        }
+      }
+    },
+    "Snape": {
+      "location": "SCHOOL",
+      "State": false,
+      "items": [
+        "Black Magic Book"
+      ],
+      "STATS": {
+        "magicalres": 5,
+        "armor": 0
+      },
+      "ABILITIES": {
+        "Spidey": {
+          "Description": "Has the power to use his animalist abilities and shoot out webs at his opponents ",
+          "physicaldmg": 20,
+          "magic damage": 0,
+          "magicresreduction": 0,
+          "armorreduction": 3
+        },
+        "Night Slash": {
+          "Description": "Can use his animalistic abilities and leverage sharp claws to harm opponents",
+          "physicaldmg": 0,
+          "magic damage": 25,
+          "magicresreduction": 2,
+          "armorreduction": 0
+        }
+      }
+    },
+    "Malfoy": {
+      "location": "POTIONS CLASS",
+      "State": false,
+      "STATS": {
+        "magicalres": 5,
+        "armor": 0
+      },
+      "items": [
+        "Food"
+      ],
+      "ABILITIES": {
+        "Serpent Whisperer": {
+          "Description": "Has the power to use his slytherin lineage to channel snakes which harm opponents ",
+          "physicaldmg": 20,
+          "magic damage": 0,
+          "magicresreduction": 0,
+          "armorreduction": 3
+        },
+        "Shadow pulse": {
+          "Description": "Can use his animalistic abilities and leverage sharp claws to harm opponents",
+          "physicaldmg": 0,
+          "magic damage": 25,
+          "magicresreduction": 0,
+          "armorreduction": 2
+        }
+      }
+    }
+  }
 }
