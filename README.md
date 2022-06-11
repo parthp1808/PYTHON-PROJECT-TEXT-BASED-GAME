@@ -26,6 +26,9 @@ by becoming strong enough through collecting items and sharpening your weapons.Y
 - **Key**:A golden key which has an emblem on its base.Can be used to open chest
 - **Chest**:Golden treasure!Can find any other item which is not a key and chest but if that items already in your inventory,the new item will be destroyed!and so will the Chest
 - **Maraudersmap**:Shows you the fastest path to reach Voldemort.
+- **GAME CONTROLS**
+- ![image](https://user-images.githubusercontent.com/20189314/173205632-d09387a9-4e4f-40ca-9e7a-8a929e15861b.png)
+
 - **TimeStopper**:The ultimate item.This makes you stronger but when you pick it up,everyone and I mean everyone is against you.You are the prey but you are stronger.This is your destiny.Donot run from it but follow it
 
 **Creatures**:
