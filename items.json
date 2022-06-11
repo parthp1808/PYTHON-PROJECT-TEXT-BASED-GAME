@@ -1,0 +1,167 @@
+{
+	"items": {
+		"Magicwand": {
+			"LOOK": "Green Long staffed Rod with a shiny tint.This wand has magical powers!",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 30,
+				"magicalres": 0,
+				"armor": 0,
+                "verb":["use"],
+				"location": ["MAIN YARD"],
+				"FIGHT": 1,
+				"State": true
+
+			}
+		},
+		"Blackmagicbook": {
+			"LOOK": "This is a book for the strongest of wizards.Read it and your staff gets stronger magical powers ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 30,
+				"magicalres": 0,
+				"armor": 0,
+				"verb":["use","read"],
+
+				"location": ["SCHOOL"],
+				"FIGHT": 0,
+				"State": true
+
+
+			}
+		},
+		"Daggers": {
+			"LOOK": "Shaped like a claw,it is made with the horn of ancient elveskin warriors.It is sharp and packs a nasty hit ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 30,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 0,
+				"verb":["use"],
+
+				"location": ["DARK MAGIC DEFENSE"],
+				"FIGHT": 1,
+				"State": true
+			}
+		},
+		"Potion": {
+			"LOOK": "This might taste nasty but they heal you up so quickly.Great to have! ",
+
+			"STATS": {
+				"heal": 30,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 2,
+				"armor": 0,
+                "verb":["drink","use"],
+				"location": ["POTIONS CLASS"],
+				"FIGHT": 0,
+				"State": true
+
+			}
+		},
+		"Key": {
+			"LOOK": "A golden key which has an emblem on its base.Can be used to open chest",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 2,
+				"armor": 0,
+                "verb":[""],
+				"location": ["SCHOOL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Chest": {
+			"LOOK": "Golden treasure! ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 0,
+                "verb":["open"],
+				"location": ["DORM YARD"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Maraudersmap": {
+			"LOOK": "This map always tells the truth.Must you listen to its fate story ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 0,
+                "verb":["read","use"],
+				"location": ["HOSPITAL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Food": {
+			"LOOK": "A tasty sandwich converted into pickle form with an ancient spell ",
+
+			"STATS": {
+				"heal": 30,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 1,
+				"armor": 0,
+                "food":["eat"],
+				"location": ["DARK MAGIC DEFENSE", "SCHOOL"],
+				"FIGHT": 0,
+				"State": true
+
+			}
+		},
+		"TimeStopper": {
+			"LOOK": "This is Voldemort's famous timestopper.Picking it will give me a massive boost to my magic powers but also make Voldemort angry ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 40,
+				"magicalres": 0,
+				"armor": 0,
+                "verb":["use"],
+				"location": ["MAGIC CLASS"],
+				"FIGHT": 0,
+				"State": true
+
+			}
+		},
+		"Portal": {
+			"LOOK ": "Spawns a dark archer to fight with you when used.",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 8,
+				"magicaldmg": 6,
+				"magicalres": 0,
+				"armor": 0,
+                "verb":["use","spawn"],
+				"location": ["HOSPITAL"],
+				"FIGHT": 1,
+				"State": true
+
+			}
+
+		}
+	}
+}
