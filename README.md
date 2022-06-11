@@ -33,3 +33,7 @@ by becoming strong enough through collecting items and sharpening your weapons.Y
 - **Werewolf**:Furry creatures with large teeth who pack a massive bite.Can use their claws and physical power to overpower their foe.
 
 
+
+
+https://user-images.githubusercontent.com/20189314/173200735-d32e2134-8e21-41d5-ab74-4ec66315103c.mp4
+
