@@ -1,0 +1,221 @@
+{
+	"items": {
+		"Magicwand": {
+			"LOOK": "green Long staffed Rod with a shiny tint",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 25,
+				"magicalres": 1,
+				"armor": 0,
+				"verb": ["use"],
+				"location": ["MAIN YARD"],
+				"FIGHT": 1,
+				"State": false
+
+			}
+		},
+		"Blackmagicbook": {
+			"LOOK": " book for the strongest of wizards increasing the magical potential of your staff ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 30,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["use", "read"],
+
+				"location": ["SCHOOL"],
+				"FIGHT": 0,
+				"State": false
+
+
+			}
+		},
+		"Daggers": {
+			"LOOK": "weapon shaped like a claw made by the ancient elveskin warriors revealing ancient secrets of warfare ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 30,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["use"],
+
+				"location": ["DARK MAGIC DEFENSE"],
+				"FIGHT": 1,
+				"State": false
+			}
+		},
+		"Potion": {
+			"LOOK": "drink which might taste rotten but  heal you up very quickly ",
+
+			"STATS": {
+				"heal": 30,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 2,
+				"armor": 0,
+				"verb": ["drink", "use"],
+				"location": ["POTIONS CLASS"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Key": {
+			"LOOK": "golden key which has an emblem on its base and can be used to open a chest",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 2,
+				"armor": 0,
+				"verb": [""],
+				"location": ["SCHOOL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Chest": {
+			"LOOK": "golden treasure with emblem of the old greats ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["open"],
+				"location": ["DORM YARD"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Maraudersmap": {
+			"LOOK": " map which always tells the truth and shows the directions to reach your destiny ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["read", "use"],
+				"location": ["HOSPITAL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Food": {
+			"LOOK": " tasty hedwig sandwich converted into pickle form with an ancient spell ",
+
+			"STATS": {
+				"heal": 30,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 1,
+				"armor": 0,
+				"verb": ["eat"],
+				"location": ["DARK MAGIC DEFENSE", "SCHOOL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"TimeStopper": {
+			"LOOK": "watch shaped like an hourglass which is dear to Voldemort and picking up will make you access the Slythein dorm but creatures and your comrades may get possessed. ",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 40,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["use"],
+				"location": ["MAGIC CLASS"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		},
+		"Portal": {
+			"LOOK": "scroll which can be used to create a random portal to any place including the slythein dorm",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 6,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["use", "spawn"],
+				"location": ["HOSPITAL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+
+		},
+
+		"Mindreader": {
+			"LOOK": "pendant with jewels which can read the minds of all the possessed.",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 6,
+				"magicalres": 0,
+				"armor": 0,
+				"verb": ["use"],
+				"location": ["POTIONS CLASS"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+
+		},
+		"Platemail": {
+			"LOOK": "jacket with coarse rough armor which increases your chances of surviving against heavy physical",
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 0,
+				"armor": 5,
+				"verb": ["use"],
+				"location": ["MAIN YARD"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+
+
+		},
+		"Firecloak": {
+			"LOOK": "cloak made of phoenix ash magical armor improving your magical resistance",
+
+
+
+			"STATS": {
+				"heal": 0,
+				"physicaldmg": 0,
+				"magicaldmg": 0,
+				"magicalres": 4,
+				"armor": 0,
+				"verb": ["use"],
+				"location": ["SCHOOL"],
+				"FIGHT": 0,
+				"State": false
+
+			}
+		}
+	}
+}

@@ -1,0 +1,151 @@
+{
+	"characters": {
+		"Hermione": {
+
+
+			"location": "DORM YARD",
+			"State": 100,
+			"items": "Key",
+			"STATS": {
+				"magicalres": 5,
+				"armor": 0
+			},
+			"ABILITIES": {
+				"magneto cogsium": {
+					"Description": "Reduces opponents magic resistance ",
+					"physicaldmg": 0,
+					"magic damage": 0,
+					"magicresreduction": 2,
+					"armorreduction": 0
+				},
+				"Sword Screen": {
+					"Description": "Uses glytherium sword to pierce enemy armor while damaging physically",
+					"physicaldmg": 20,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 3
+				}
+			}
+		},
+		"Voldemort": {
+
+			"location": "SLYTHEIN DORM",
+			"State": false,
+			"items": "Key",
+			"STATS": {
+				"magicalres": 5,
+				"armor": 4
+			},
+			"ABILITIES": {
+				"Magic Zapper": {
+					"Description": "Voldemort uses his magic powers to harness bolts of lightning which he are tossed my way ",
+					"physicaldmg": 1,
+					"magic damage": 35,
+					"magicresreduction": 2,
+					"armorreduction": 2
+				},
+				"Fire Warrior": {
+					"Description": "He blasts out a series of ghosts from his nape who start bashing my skull while plucking my armor.This seems to be a tough order!",
+					"physicaldmg": 35,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 2
+				},
+				"Poisoned Dagger": {
+					"Description": "*Voldemort tosse a poisoned daggers hitting my thigh*These daggers are reducing my magical resistance while similutaneously making me bleed. ",
+					"physicaldmg": 35,
+					"magic damage": 0,
+					"magicresreduction": 2,
+					"armorreduction":9
+				}
+			}
+		},
+
+		"Weasley": {
+
+			"location": "MAIN YARD", 
+			"State": false,
+			"items": "Blackmagicbook",
+			"STATS": {
+				"magicalres": 5,
+				"armor": 0
+			},
+			"ABILITIES": {
+				"Immortality": {
+					"Description": "He is casting an evil curse with his voodoo doll.It hurts my psyche.Ouche",
+					"physicaldmg": 0,
+					"magic damage": 20,
+					"magicresreduction": 2,
+					"armorreduction": 0
+				},
+				"Fire Warrior": {
+					"Description": "Theres flames which come out of this wizards mouth.Those flames burn my eyes and hurt my armor.",
+					"physicaldmg": 10,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 3
+				}
+			}
+		},
+
+		
+
+
+		"Snape": {
+
+			"location": "SCHOOL",
+			"State": false,
+			"items": "TimeStopper",
+			"STATS": {
+				"magicalres": 5,
+				"armor": 0
+			},
+			"ABILITIES": {
+				"Spidey": {
+					"Description": "Snape shreaks as heavy as the ocean when the tempest blows.My eardrums are torn a little bit. ",
+					"physicaldmg": 20,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 3
+				},
+				"Night Slash": {
+					"Description": "Snape runs his sharp claws through my skin to drain my flesh.Ouch!",
+					"physicaldmg": 0,
+					"magic damage": 25,
+					"magicresreduction": 2,
+					"armorreduction": 0
+				}
+			}
+		},
+
+		"Malfoy": {
+
+			"location": "POTIONS CLASS",
+			"State": 100,
+			"items": "Food",
+			"STATS": {
+				"magicalres": 5,
+				"armor": 0
+			},
+			
+			"ABILITIES": {
+				"Serpent Whisperer": {
+					"Description": "Has the power to use his slytherin lineage to channel snakes which harm opponents ",
+					"physicaldmg": 20,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 3
+				},
+				"Shadow pulse": {
+					"Description": "Can use his animalistic abilities and leverage sharp claws to harm opponents",
+					"physicaldmg": 0,
+					"magic damage": 25,
+					"magicresreduction": 0,
+					"armorreduction": 2
+				}
+			}
+		}
+		
+		
+	}
+}
