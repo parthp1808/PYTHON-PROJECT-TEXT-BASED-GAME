@@ -1,0 +1,34 @@
+{
+	"nuggets": {
+		"PAINTING": {
+			"LOOK": "Pale skin chalk like face with a blunt nose intimidating as a viper with fluttering nostrils.",
+			"items": "Potion",
+			"verb": "check",
+			"LOCATION": "GRYFFINDOR DORM"
+		},
+		"Cupboard": {
+			"LOOK": "Old shaggy wood with shredded corners eaten by the glumblebumbles but still intact.Opening it might present a big surprise",
+			"items": "Blackmagicbook",
+			"verb": "open",
+			"LOCATION": "POTIONS CLASS"
+		},
+		"LampShed": {
+			"LOOK": "The flesh of the Lamp looks like its been a while it is here.Flies gather to its flutter lights.",
+			"items": "Blackmagicbook",
+			"verb": "see",
+			"LOCATION": "MAIN YARD"
+		},
+		"Letter": {
+			"LOOK": "Colin Creevey:Hello masterful Wizard,we have left you a souvenir in this parcel.May you use it to save this world and bring us peace.",
+			"items": "Blackmagicbook",
+			"verb": "open",
+			"LOCATION": "SCHOOL"
+		},
+		"Sculpture": {
+			"LOOK": "Mighty Wizard with long hair,sharp claws and pointy teeth,the sculpture depicts one of the finest wizards of this school.There must be someone who follows his footsteps",
+			"items": "Magicwand",
+			"verb": "check",
+			"LOCATION": "HOSPITAL"
+		}
+	}
+}

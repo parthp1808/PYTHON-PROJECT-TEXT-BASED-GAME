@@ -1,0 +1,64 @@
+{
+	"creatures": {
+
+		"Dementor": {
+			"LOOK": "a being with a decayed body and long cape with its body covered floating through thin air.",
+			"location": "DORM YARD",
+			"STATS": {
+				"magicalres": 5,
+				"armor": 0,
+				"STATE": false
+
+
+			},
+			"ABILITIES": {
+				"Soul Sucker": {
+					"Description": "Dementor channels arts of the dark magic by waving its cape in rapid fashion and pushing forth a cold toxic breeze",
+					"physicaldmg": 0,
+					"magic damage": 8,
+					"magicresreduction": 1,
+					"armorreduction": 0
+				},
+
+				"Night slash": {
+					"Description": "Dementor uses its sharp claws to slather your arm",
+					"physicaldmg": 15,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 0
+				}
+			}
+		},
+		
+
+		"Werewolf": {
+			"LOOK": "a animal with sharp claws,a pungent smell and pointy teeth.",
+			"location": "MAGIC CLASS",
+			"STATS": {
+				"magicalres": 2,
+				"armor": 10,
+				"STATE": false
+
+			},
+			"ABILITIES": {
+				"Bite": {
+					"Description": "Wolf opens its nasty mouth with clawed teeth delivering a painful punch",
+					"physicaldmg": 15,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 0
+				},
+
+				"Night slash": {
+					"Description": "Werewolf uses its paws and channels its inner beastly powers with its howl.",
+					"physicaldmg": 10,
+					"magic damage": 0,
+					"magicresreduction": 0,
+					"armorreduction": 1
+				}
+			}
+
+
+		}
+	}
+}
